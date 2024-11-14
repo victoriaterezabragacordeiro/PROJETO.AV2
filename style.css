@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<p> style="color:Blue " 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz de Robótica e IA</title>
     <link rel="stylesheet" href="style.css">
-    </p>
 </head>
 <body>
     <header>
@@ -44,3 +42,6 @@
     <script src="script.js"></script>
 </body>
 </html>
+header{
+    background-attachment: #f4686b;
+}
