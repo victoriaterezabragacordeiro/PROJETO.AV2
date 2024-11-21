@@ -64,7 +64,7 @@ section {
     margin: 2em auto;
     padding: 1em;
     background-color: #fff;
-    box-shadow: 0 0 10px rgba(6, 78, 121, 0.733);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
 
 img {
